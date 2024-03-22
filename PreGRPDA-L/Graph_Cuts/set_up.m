@@ -1,6 +1,8 @@
 %%
 clc;clear all;close all;
 addpath('functions')
+addpath('toolbox_general')
+addpath('toolbox_signal')
 addpath('utils')
 addpath('algorithm_gen')
 addpath('algorithm_linesearch')
