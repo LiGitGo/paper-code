@@ -7,7 +7,6 @@ addpath('toolbox_signal')
 addpath('algorithm')
 rng(100)
 %% input image
-
 name = 'blue_flower_300';
 % name = 'yellow_flower';
 I = rescale(load_image(name));
